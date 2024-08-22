@@ -1,4 +1,4 @@
-#NLP Sentiment Analysis of Amazon Product
+# NLP Sentiment Analysis of Amazon Product
 This project performs sentiment analysis on customer reviews of an Amazon product. By scraping the reviews directly from the Amazon website, the project applies a series of Natural Language Processing (NLP) techniques to determine the overall sentiment (positive, negative, or neutral) of the product.
 
 Key Libraries Used:
